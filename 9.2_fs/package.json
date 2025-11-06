@@ -1,0 +1,14 @@
+
+{
+  "name": "react-docker-ci-cd-final",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "start": "echo 'Start disabled for demo - run build for Docker usage'",
+    "build": "echo 'Dummy build - replace with CRA build environment'"
+  }
+}
